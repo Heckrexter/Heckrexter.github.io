@@ -100,9 +100,13 @@ body > * {
     margin-top: 1%;
 }
 
+.inticona {
+    width: 15%;
+}
+
 .inticon {
     margin: 2%;
-    width: 15%;
+    width: 100%;
     scale: 1;
 }
 
